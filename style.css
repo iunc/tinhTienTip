@@ -12,3 +12,9 @@ p{
 .row{
     display: inline;
 }
+p.thongBao{
+    display: none;
+}
+.rounded{
+    border: 2px solid #000;
+}
