@@ -1,20 +1,20 @@
-.box{
+.box {
     width: 300px;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
     border: 10px solid rgb(39, 1, 1);
 }
-p{
+p {
     margin: 0;
 }
-.row{
-    display: inline;
+.form-control:hover {
+    border-color: #1d1d1d;
 }
-p.thongBao{
+.form-message {
     display: none;
 }
-.rounded{
-    border: 2px solid #000;
+.spacer {
+    margin-top: 36px;
 }
